@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp14_счастливые коты", "ConsoleApp14_счастливые коты\ConsoleApp14_счастливые коты.csproj", "{F36F6C7D-171F-44B9-83E5-55EE1C2D0F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36F6C7D-171F-44B9-83E5-55EE1C2D0F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36F6C7D-171F-44B9-83E5-55EE1C2D0F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36F6C7D-171F-44B9-83E5-55EE1C2D0F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36F6C7D-171F-44B9-83E5-55EE1C2D0F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FACF05B-5DC6-4BE7-9A0B-9BF24B398D92}
+	EndGlobalSection
+EndGlobal
